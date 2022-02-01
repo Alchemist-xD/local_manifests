@@ -5,7 +5,7 @@
           fetch="https://github.com/Azure-007" />
   
   <remote name="alchemist"
-          fetch="https://github.com/Alchemist-xD " />
+          fetch="https://github.com/Alchemist-xD" />
   
   <!-- Trees -->
         <project path="device/xiaomi/raphael" name="android_device_xiaomi_raphael" remote="alchemist" revision="aosp-12.0" />
