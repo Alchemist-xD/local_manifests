@@ -14,6 +14,7 @@
 
   <!-- Extra -->
         <remove-project name="android_hardware_xiaomi" />
+        <remove-project name="android_packages_apps_GCamGOPrebuilt" />
         <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="alchemist" revision="main" />
         <project path="packages/apps/GCamGOPrebuilt" name="android_packages_apps_GCamGOPrebuilt" remote="alchemist" revision="main" />
 
